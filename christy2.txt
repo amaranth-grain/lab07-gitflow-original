@@ -7,6 +7,10 @@ EDIT
 HELLO
 
 WORLD!
+<<<<<<< HEAD
+Third time's the charm 
+=======
 
 Adding a new line 
 
+>>>>>>> 2add78f2167e20159969cab2ce5003b323037b0c
